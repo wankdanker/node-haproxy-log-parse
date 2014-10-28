@@ -1,0 +1,28 @@
+{
+  "name": "haproxy-log-parse",
+  "version": "1.0.0",
+  "description": "Parse haproxy log lines to objects",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "tape": "^3.0.1"
+  },
+  "scripts": {
+    "test": "node test.js"
+  },
+  "keywords": [
+    "haproxy",
+    "log",
+    "parser"
+  ],
+  "author": "Dan VerWeire",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wankdanker/node-haproxy-log-parse.git"
+  },
+  "bugs": {
+    "url": "https://github.com/wankdanker/node-haproxy-log-parse/issues"
+  },
+  "homepage": "https://github.com/wankdanker/node-haproxy-log-parse"
+}
